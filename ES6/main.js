@@ -104,6 +104,35 @@ mySkills.forEach((skils) => {
 
 parent += `</ul>`;
 
+<<<<<<< Updated upstream
 skill_holder.innerHTML = parent;
+<<<<<<< Updated upstream
 
 // map , filter
+=======
+=======
+// skill_holder.innerHTML = parent;
+
+// map , filter
+
+//  map
+// untuk mempetakan
+
+const judul = `<h2>MAP JAVASCRIPT</h2>`;
+
+const printSkills = mySkills.map((skills) => {
+  return skills;
+});
+
+// filter
+// untuk memfilter Array
+
+// contoh ingin memfilter coding agar yang di tampilkan condiung saja
+
+const myLoveSkill = mySkills.filter((skill) => {
+  return skill !== `coding`;
+});
+
+skill_holder.innerHTML = myLoveSkill;
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
