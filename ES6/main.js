@@ -136,3 +136,5 @@ const myLoveSkill = mySkills.filter((skill) => {
 skill_holder.innerHTML = myLoveSkill;
 >>>>>>> Stashed changes
 
+
+const test = 123;
