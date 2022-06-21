@@ -105,3 +105,5 @@ mySkills.forEach((skils) => {
 parent += `</ul>`;
 
 skill_holder.innerHTML = parent;
+
+// map , filter
