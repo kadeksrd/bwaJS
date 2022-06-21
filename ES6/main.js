@@ -109,7 +109,7 @@ skill_holder.innerHTML = parent;
 
 
 // map , filter
-=======
+
 =======
 // skill_holder.innerHTML = parent;
 
