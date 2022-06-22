@@ -104,12 +104,9 @@ mySkills.forEach((skils) => {
 
 parent += `</ul>`;
 
-<<<<<<< Updated upstream
 skill_holder.innerHTML = parent;
 
-
 // map , filter
-=======
 
 // skill_holder.innerHTML = parent;
 
@@ -134,15 +131,3 @@ const myLoveSkill = mySkills.filter((skill) => {
 });
 
 skill_holder.innerHTML = myLoveSkill;
->>>>>>> Stashed changes
-
-<<<<<<< Updated upstream
-const tst = 1245
-=======
-
-
-const test = 123;
-=======
-const tst = 1245
-const mySkills = 124562
->>>>>>> Stashed changes
