@@ -106,11 +106,11 @@ parent += `</ul>`;
 
 <<<<<<< Updated upstream
 skill_holder.innerHTML = parent;
-<<<<<<< Updated upstream
+
 
 // map , filter
 =======
-=======
+
 // skill_holder.innerHTML = parent;
 
 // map , filter
@@ -135,4 +135,5 @@ const myLoveSkill = mySkills.filter((skill) => {
 
 skill_holder.innerHTML = myLoveSkill;
 >>>>>>> Stashed changes
->>>>>>> Stashed changes
+
+const tst = 1245
