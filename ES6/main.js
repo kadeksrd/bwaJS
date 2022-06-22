@@ -139,11 +139,10 @@ skill_holder.innerHTML = myLoveSkill;
 <<<<<<< Updated upstream
 const tst = 1245
 =======
-<<<<<<< Updated upstream
+
 
 const test = 123;
 =======
 const tst = 1245
 const mySkills = 124562
->>>>>>> Stashed changes
 >>>>>>> Stashed changes
